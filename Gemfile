@@ -57,7 +57,7 @@ group :development do
 end
 
 
-gem "solid_cache", "~> 0.4.2"
+gem "solid_cache", "~> 0.5.3"
 gem "solid_queue", "~> 0.2.1"
 
 gem "faker", "~> 3.2", :groups => [:test, :development]
