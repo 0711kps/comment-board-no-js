@@ -60,7 +60,7 @@ end
 gem "solid_cache", "~> 0.4.2"
 gem "solid_queue", "~> 0.2.1"
 
-gem "faker", "~> 3.2", :groups => [:test, :development]
+gem "faker", "~> 3.3", :groups => [:test, :development]
 
 gem "fabrication", "~> 2.31", :groups => [:test, :development]
 
