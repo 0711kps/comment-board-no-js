@@ -66,4 +66,4 @@ gem "fabrication", "~> 2.31", :groups => [:test, :development]
 
 gem "minitest", "~> 5.21", :group => :test
 
-gem "falcon", "~> 0.43.0"
+gem "falcon", "~> 0.44.0"
